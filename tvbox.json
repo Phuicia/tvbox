@@ -79,7 +79,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "./jar/top98_1.jar",
+            "jar": "./jar/top98.txt",
             "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
         },
         {
@@ -110,7 +110,7 @@
             "playerType": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "jar": "./jar/top98_1.jar",
+            "jar": "./jar/top98.txt",
             "ext": {
                 "小雅": "http://alist.xiaoya.pro"
             }
